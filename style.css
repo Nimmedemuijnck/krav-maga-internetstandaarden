@@ -27,6 +27,7 @@ header h1 {
     border: 1px solid #333;
     border-radius: 25px;
     margin-top: 50px;
+    overflow: hidden;
     display: flex;
     justify-content: space-between;
 }
