@@ -16,9 +16,10 @@ header h1 {
     font-size: 35px;
 }
 
-.home {
-    background-color: rgb(139, 217, 213);
+body{
+background-image: url(immages/collage-2016-12-05-1.jpg) ;
 }
+
 
 
 .nav-container{
