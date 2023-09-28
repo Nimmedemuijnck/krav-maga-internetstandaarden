@@ -5,25 +5,20 @@
 }
 
 body {
-    width: 90%;
-    margin: 0 auto;
     background-color: rgb(139, 217, 213);
 }
 
-header h1 {
-    background-color: rgb(255, 255, 255);
-    color: black;
-    font-size: 35px;
-}
-
 div{
-background-image: url(immages/collage-2016-12-05-1.jpg) ;
-
+    background-image: url(immages/collage-2016-12-05-1.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
 }
 
-
-
-.nav-container{
+nav{
     background-color: rgb(255, 255, 255);
     color: black;
     border: 1px solid rgb(255, 255, 255);
@@ -34,15 +29,15 @@ background-image: url(immages/collage-2016-12-05-1.jpg) ;
     justify-content: space-between;
 }
 
-.right-side, .left-side{
+ul{
     list-style-type: none;
 }
 
-.right-side li, .left-side li{
+ul li{
     display: inline-block;
 }
 
-.right-side li a, .left-side li a{ 
+ul li a{ 
     text-decoration: none;
     display: block;
     width: 100%;
@@ -53,9 +48,15 @@ background-image: url(immages/collage-2016-12-05-1.jpg) ;
     font-weight: bold;
 }
 
-.right-side li a:hover, .left-side li a:hover{
+ul li a:hover{
     background-color: #ddd;
 }
 
+
+header h1 {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-size: 35px;
+}
 
 
