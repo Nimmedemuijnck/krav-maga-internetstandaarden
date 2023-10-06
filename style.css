@@ -108,19 +108,20 @@ main ul {
 
 #Krav-Maga-Vrouw {
     height: 64vh;
-    width: auto;
+    width: 80vb;
     padding: 10vh;
     position: absolute;
-    right: 10vh;
-    top: 13vh;
+    right: 10vb;
+    top: 10vh;
 }
 
 #Krav-Maga-verdediging-op-de-grond {
-    height: 54vh;
-    width: 60vb;
+    height: 60vh;
+    width: auto;
+    padding: 10vh;
     position: absolute;
-    left: 10vb;
-    top: 80vh;
+    right: 10vb;
+    top: 60vh;
 }
 
 #verdediging-tegen-wapen {
@@ -128,8 +129,8 @@ main ul {
     width: auto;
     padding: 10vh;
     position: absolute;
-    right: 10vh;
-    top: 13vh;
+    right: 10vb;
+    top: 10vh;
 }
 
 #collage-4-plaatjes {
@@ -137,7 +138,7 @@ main ul {
     width: auto;
     padding: 10vh;
     position: absolute;
-    right: 22vh;
+    right: 22vb;
     top: 60vh;
 }
 
@@ -146,7 +147,8 @@ main ul {
     width: auto;
     padding: 10vh;
     position: absolute;
-    right: 10vh;
+    right: 10vb;
+    top: 20vh;
 }
 
 #Drie-mannen {
@@ -154,6 +156,8 @@ main ul {
     width: auto;
     padding: 10vh;
     position: absolute;
+    left: 0vb;
+    top: 20vh;
 }
 
 .left {
