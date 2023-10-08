@@ -202,7 +202,8 @@ main ul {
     top: 30vh;
     font-size: 30px;
     color: rgb(0, 0, 0);
-    padding-left: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
     position: absolute;
     text-align: center;
     background-image: linear-gradient(to bottom, #add8e6, #ddd)
