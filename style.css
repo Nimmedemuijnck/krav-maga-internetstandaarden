@@ -129,43 +129,62 @@ main ul {
 }
 
 #Krav-Maga-Vrouw {
-    height: 64vh;
-    width: 80vb;
-    padding: 10vh;
-    position: absolute;
-    right: 3%;
-    top: 10vh;
-}
-
-#Krav-Maga-verdediging-op-de-grond {
-    height: 60vh;
+    height: 65vh;
     width: auto;
     padding: 10vh;
     position: absolute;
     right: 3%;
-    top: 60vh;
+    top: 13vh;
 }
 
-#verdediging-tegen-wapen {
-    height: 64vh;
+#Krav-Maga-verdediging-op-de-grond {
+    height: 65vh;
+    width: auto;
+    padding: 10vh;
+    position: absolute;
+    right: 3%;
+    top: 65vh;
+}
+
+#Vrouwen-verdediging-op-de-grond {
+    height: 70vh;
     width: auto;
     padding: 10vh;
     position: absolute;
     left: 0vb;
-    top: 90vh;
+    top: 65vh; 
+
+}
+
+#verdediging-tegen-wapen {
+    height: 70vh;
+    width: auto;
+    padding: 10vh;
+    position: absolute;
+    left: 0vb;
+    top: 88vh;
 }
 
 #collage-4-plaatjes {
-    height: 75vh;
+    height: 78vh;
     width: auto;
     padding: 10vh;
     position: absolute;
     right: 3%;
-    top: 10vh;
+    top: 80vh;
+}
+
+#krav-maga-levels {
+    height: 71vh;
+    width: auto;
+    padding: 10vh;
+    position: absolute;
+    right: 3%;
+    top: 26vh;
 }
 
 #Twee-mannen-trappen {
-    height: 64vh;
+    height: 68vh;
     width: auto;
     padding: 10vh;
     position: absolute;
@@ -174,7 +193,7 @@ main ul {
 }
 
 #Drie-mannen {
-    height: 64vh;
+    height: 68vh;
     width: auto;
     padding: 10vh;
     position: absolute;
