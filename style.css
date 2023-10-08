@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(145, 211, 208);
+    background: #add8e6
 }
 
 header h1 {
@@ -31,8 +31,7 @@ main {
 
 footer {
     padding-left: 3%;
-    
-    position: absolute;
+    /*position: absolute;*/
 }
 
 nav {
@@ -86,6 +85,10 @@ h3 {
     margin-top: 10px;
  }
 
+ p {
+    margin-bottom: 15px;
+ }
+
 main ul {
     list-style-type: disc;
 }
@@ -128,7 +131,7 @@ main ul {
     width: 80vb;
     padding: 10vh;
     position: absolute;
-    right: 10vb;
+    right: 3%;
     top: 10vh;
 }
 
@@ -137,7 +140,7 @@ main ul {
     width: auto;
     padding: 10vh;
     position: absolute;
-    right: 10vb;
+    right: 3%;
     top: 60vh;
 }
 
@@ -146,17 +149,17 @@ main ul {
     width: auto;
     padding: 10vh;
     position: absolute;
-    right: 10vb;
-    top: 10vh;
+    left: 0vb;
+    top: 90vh;
 }
 
 #collage-4-plaatjes {
-    height: 64vh;
+    height: 75vh;
     width: auto;
     padding: 10vh;
     position: absolute;
-    right: 22vb;
-    top: 60vh;
+    right: 3%;
+    top: 10vh;
 }
 
 #Twee-mannen-trappen {
@@ -164,7 +167,7 @@ main ul {
     width: auto;
     padding: 10vh;
     position: absolute;
-    right: 10vb;
+    right: 3%;
     top: 20vh;
 }
 
